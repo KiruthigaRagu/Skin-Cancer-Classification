@@ -1,4 +1,5 @@
-DATASET<br>
+SKIN CANCER CLASSIFICATION<br><br>
+Dataset:<br>
 The dermatoscopic images from different populations, acquired and stored by different modalities.
 The final dataset consists of 10015 dermatoscopic images
 Cases include a representative collection of all important diagnostic categories in the realm of pigmented lesions: 
